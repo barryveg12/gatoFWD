@@ -6,6 +6,7 @@ var tablero = [
 ];
 
 
+let suma=0
 
 
 var jugadorActual = 'X';
